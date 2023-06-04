@@ -1,0 +1,23 @@
+
+table, th, td {
+    border: 2px solid rgb(0, 0, 0);
+    color: rgb(230, 219, 219);
+    text-align: center;
+    padding: 5px;
+  }
+
+  h1{
+    text-align: center;
+    padding: 10px;
+    text-decoration: underline;
+  }
+
+  .search{
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .input{
+    padding: 10px;
+  }

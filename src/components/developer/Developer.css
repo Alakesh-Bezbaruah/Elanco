@@ -1,0 +1,13 @@
+.developer{
+    text-align: center;
+    background-color: black;
+    color: #eaf6fe;
+}
+
+.developerT{
+    text-align: center;
+    opacity: 0.5;
+    font-size: 12px;
+    font-weight: 300;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
