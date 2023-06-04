@@ -48,7 +48,7 @@ const Einfo: React.FC = () => {
           </div>
         </div>
         {errorMsg && (<p>{errorMsg}</p>)}
-        {loading && <h1>Loading......</h1>}
+        {loading && <h1 className="loading">Loading......</h1>}
         <table >
           <thead>
             <tr>
